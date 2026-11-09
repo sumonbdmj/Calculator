@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_purple">#FF7B2FF7</color>
+    <color name="brand_blue">#FF2F80ED</color>
+    <color name="splash_background">#FFF6F5FF</color>
+    <color name="window_background">#FFF6F5FF</color>
+</resources>
